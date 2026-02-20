@@ -1,0 +1,2 @@
+# Smart-Sorting-Transfer-Learning-for-Identifying-rotten-fruits-and-vegetables
+Smart Sorting uses transfer learning–based deep learning models to classify fruits and vegetables as fresh or rotten from images. By analyzing color, texture, and shape, it detects spoilage accurately with minimal training data. It enables real-time quality inspection in agriculture and retail, reducing food waste and improving food safety.
